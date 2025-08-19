@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "titulo": "Campaña de Recolección de Alimentos 2025",
+        "fecha": "2025-08-15",
+        "descripcion": "Iniciamos nuestra campaña anual para recolectar alimentos no perecederos y ayudar a familias vulnerables de nuestra comunidad.",
+        "icon": "fas fa-shopping-basket"
+    },
+    {
+        "titulo": "Nueva Alianza con Empresas Locales", 
+        "fecha": "2025-08-10",
+        "descripcion": "Hemos firmado convenios con 12 empresas locales para crear programas de responsabilidad social que beneficien a la comunidad.",
+        "icon": "fas fa-handshake"
+    },
+    {
+        "titulo": "Programa de Becas Estudiantiles",
+        "fecha": "2025-08-05", 
+        "descripcion": "Lanzamos nuestro programa de becas para estudiantes de escasos recursos, cubriendo útiles escolares y uniformes.",
+        "icon": "fas fa-graduation-cap"
+    },
+    {
+        "titulo": "Jornada Médica Gratuita",
+        "fecha": "2025-07-28",
+        "descripcion": "Realizamos jornadas de salud que beneficiaron a más de 200 personas con consultas médicas y medicamentos gratuitos.",
+        "icon": "fas fa-stethoscope"
+    }
+]
